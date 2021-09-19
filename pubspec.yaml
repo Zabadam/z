@@ -1,0 +1,28 @@
+name: z
+description: >
+
+version: 0.1.0
+repository: https://github.com/Zabadam/z
+issue_tracker: https://github.com/Zabadam/z/issues
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  icon: ^2.2.1
+  img: ^0.1.0
+  neu: ^0.1.0
+  spectrum: ^0.2.1+1
+  curtains: ^0.10.0
+  # shadows: ^0.9.0
+  surface: ^0.4.3
+  # ball: ^0.1.2
+  foil: ^0.9.0+1
+  xl: ^0.9.1
+
+dev_dependencies: null
+
+flutter: null
